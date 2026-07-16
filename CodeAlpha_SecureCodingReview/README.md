@@ -102,7 +102,7 @@ CodeAlpha Cyber Security Internship
 
 ---
 
-## 🙏 Acknowledgement
+##  Acknowledgement
 
 I sincerely thank **CodeAlpha** for providing this internship opportunity, which helped me improve my practical cybersecurity and secure software development skills.
 
